@@ -1,4 +1,4 @@
-![logo](https://github.com/Shyamsaurabh325/Shyamsaurabh325/blob/main/Banner.png)
+![logo](https://github.com/Shyamsaurabh325/Shyamsaurabh325/blob/main/Pster%20data%20analyst.png)
 <h1 align="center">Hi 👋, I'm Shyam Bihari Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
