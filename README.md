@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shyam-bihari-kumar-36742625b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ6ypUCD9T2OoNocgJHEzWA%3D%3D](https://www.linkedin.com/in/shyam-bihari-kumar-36742625b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ6ypUCD9T2OoNocgJHEzWA%3D%3D)
 
-- 💬 Ask me about **I am a computer Science engineering student in Suresh Gyan Vihar University now I navigate the path towards further developing my career in the field of data analytics.**
+- 💬 Ask me about Python , Excel , Mysql , Statistics , 
 
 - 📫 How to reach me **shyamkumar279630@gmail.com**
 
