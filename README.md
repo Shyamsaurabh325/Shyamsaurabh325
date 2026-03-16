@@ -41,7 +41,6 @@ const shyam = {
   funFact     : "I turn raw data into decisions & raw code into products 🚀"
 };
 ```
-
 ---
 
 ## 💼 Work Experience
@@ -54,29 +53,7 @@ const shyam = {
 - 🚀 Deploy production-ready apps on live servers with hosting & domain setup
 - 📊 Apply Data Analytics & ML for data-driven business decisions
 - 🔍 Handle Technical SEO, performance optimization & workflow automation
-
 ---
-
-### 🏢 Software Developer — I-NXT IT SOLUTIONS *(Feb 2025 – Present)*
-> React.js • Node.js • Firebase • Google Cloud Platform
-
-- ⚡ Built & deployed full-stack web applications for enterprise clients
-- 🔌 Integrated RESTful APIs — reduced data retrieval time by **30%**
-- ☁️ Implemented GCP solutions for scalable deployment & cloud storage
-- 🤖 Automated workflow processes with Python scripts
-- 🏃 Worked in Agile sprints with cross-functional teams
-
----
-
-### 🎓 Technical Mentor — Topmate.io *(Jan 2024 – Present)*
-> SQL • Python • Data Visualization • Career Roadmapping
-
-- 👨‍🏫 Mentored **50+ aspiring developers & analysts** one-on-one
-- 📈 Improved mentee interview success rates with curated roadmaps
-- 📝 Created best-practice guides for SQL, Python & data visualization
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🖥️ Languages
